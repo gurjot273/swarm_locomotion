@@ -244,7 +244,7 @@ def init(args):
             a = int(a)
             b = int(b)
             turn(j, k, l, m, a, b)
-            #turn(j, k, x ,y, a, b)
+            #turn(l, m, x ,y, a, b)
 
     print("hello")
 
